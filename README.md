@@ -9,7 +9,7 @@ git clone <project-URL>
 ```
 2.Move into the project directory:
 ```sh
-cd DeathLogPlugin
+cd CreeperNetherSpawn
 ```
 3.Build the plugin with Maven:
 ```sh
