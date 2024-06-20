@@ -1,0 +1,6 @@
+name: CreeperNetherSpawn
+version: 1.0
+main: com.myplugin.CreeperNetherSpawn
+api-version: 1.16
+author: tuan
+description: A plugin that allows creepers to spawn in the Nether.
