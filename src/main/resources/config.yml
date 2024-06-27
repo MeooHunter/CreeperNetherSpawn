@@ -1,0 +1,12 @@
+creeper-spawn:
+  spawn-radius-per-player: 64
+  spawn-radius-per-player-min: 16
+  spawn-radius-per-player-y: 32
+  points-per-second:
+    land: 5
+    air: 1
+    sea: 2
+    lava: 1
+    ground: 0
+  max-generation-time: 20
+  limit-multiplier: 1.2
