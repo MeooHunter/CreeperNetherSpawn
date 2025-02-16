@@ -18,8 +18,8 @@ public class CreeperNetherSpawn extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        this.saveDefaultConfig(); // Tạo file config.yml nếu chưa tồn tại
-        config = this.getConfig(); // Nạp file config.yml
+        this.saveDefaultConfig(); 
+        config = this.getConfig(); 
 
         Bukkit.getLogger().info("CreeperNetherSpawn plugin has been enabled.");
         startCreeperSpawnTask();
